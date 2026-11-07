@@ -4,6 +4,14 @@ Este repositório reúne tutoriais e materiais de apoio relacionados ao uso de e
 
 O objetivo é centralizar orientações práticas, facilitar o compartilhamento de conhecimento entre os integrantes do laboratório e documentar procedimentos de utilização e configuração das ferramentas.
 
+## Conteúdo
+
+| Arquivo | Versão | Objetivo |
+| --- | --- | --- |
+| [Colorímetro Coralis HPS Pro](https://github.com/Masto-MZUSP/frmt-masto-mzusp/blob/main/frmt_ColorimetroCoralisHPSPro_v1.0.pdf) | v1.0 | Habilitar o usuário para a aplicação do Colorímetro Coralis HPS Pro em análises colorimétricas de amostras biológicas, abrangendo desde a coleta até a interpretação dos dados obtidos. |
+| [Uso da Câmera e Edição de Fotos](https://github.com/Masto-MZUSP/frmt-masto-mzusp/blob/main/frmt_CâmeraEdiçãoFotos_v1.0.pdf) | v1.0 | Instruir o usuário na operação completa do sistema de fotografia do laboratório para obtenção de imagens de alta qualidade para fins acadêmicos. |
+| [Gestão de Amostras](https://github.com/Masto-MZUSP/frmt-masto-mzusp/blob/main/frmt_GestãoAmostras_v1.0.pdf) | v1.0 | Apresentar um modelo para gerenciamento de amostras genéticas para projetos científicos usando apenas ferramentas nativas do Google Drive: o Google Sheets para o registro dos dados e o Google My Maps para a visualização geográfica das amostras. |
+
 ## Como utilizar
 
 Os tutoriais estão organizados por tema ou tipo de análise. Consulte as instruções de cada material e verifique os requisitos, versões dos programas e dependências antes de executar os procedimentos.
